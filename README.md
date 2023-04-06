@@ -4,7 +4,7 @@
 
 # Dependencies
 
-## This code uses Scikit-learn and Imbalanced-learn.
+## This code uses Scikit-learn and Imbalanced-learn, as well as Pandas and NumPy.
 
 # Results
 
